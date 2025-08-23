@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c489cbe.css",
+    "main.js": "/static/js/main.b9ec090e.js",
+    "static/js/572.e016393c.chunk.js": "/static/js/572.e016393c.chunk.js",
+    "static/css/782.3edd36a6.chunk.css": "/static/css/782.3edd36a6.chunk.css",
+    "static/media/profile.png": "/static/media/profile.650a4a9ff552589c92de.png",
+    "static/media/Authentication img.png": "/static/media/Authentication img.e8dd7f3b6aff3e2f98ac.png",
+    "static/media/Hero Image.png": "/static/media/Hero Image.8586e6ea3149e486b67a.png",
+    "static/media/Rectangle 43.png": "/static/media/Rectangle 43.4099f5e86aa425cbf874.png",
+    "static/media/chaosimg.png": "/static/media/chaosimg.aed0e0ec31cda1dbb309.png",
+    "static/media/Rectangle 44.png": "/static/media/Rectangle 44.db0442f5444d8daf5a6d.png",
+    "static/media/perfChart.png": "/static/media/perfChart.19d324068130ec08ace0.png",
+    "static/media/Group 36.png": "/static/media/Group 36.f0c30659c5059225a51c.png",
+    "static/media/image 3.png": "/static/media/image 3.950ccabc00a707ebb627.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.e471ec3eb02ecfcb4bc9.png",
+    "index.html": "/index.html",
+    "main.2c489cbe.css.map": "/static/css/main.2c489cbe.css.map",
+    "main.b9ec090e.js.map": "/static/js/main.b9ec090e.js.map",
+    "572.e016393c.chunk.js.map": "/static/js/572.e016393c.chunk.js.map",
+    "782.3edd36a6.chunk.css.map": "/static/css/782.3edd36a6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c489cbe.css",
+    "static/js/main.b9ec090e.js"
+  ]
+}

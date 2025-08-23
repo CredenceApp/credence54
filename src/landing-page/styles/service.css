@@ -1,0 +1,6 @@
+.bg-img {
+    background: url(../../assets/dotted_maps.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

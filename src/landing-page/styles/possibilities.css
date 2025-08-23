@@ -1,0 +1,7 @@
+.hands {
+    background: linear-gradient(rgba(113, 161, 127, 0.5), rgba(113, 161, 127, 0.5)), url(../../assets/hands.png) !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
